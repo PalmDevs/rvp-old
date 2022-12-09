@@ -1,3 +1,10 @@
+# [2.142.0](https://github.com/PalmDevs/rvp/compare/v2.141.1...v2.142.0) (2022-12-09)
+
+
+### Features
+
+* remove all unlock premium patches ([12e0416](https://github.com/PalmDevs/rvp/commit/12e04168b15b3174a87a7ea21ba990e33a41bd37))
+
 ## [2.141.1](https://github.com/PalmDevs/rvp/compare/v2.141.0...v2.141.1) (2022-12-09)
 
 

@@ -156,108 +156,12 @@ The official Patch bundle provided by ReVanced and the community.
 | `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
 </details>
 
-### 📦 `com.myprog.hexedit`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `disable-ads` | Disables ads in HexEditor. | all |
-</details>
-
 ### 📦 `com.crunchyroll.crunchyroid`
 <details>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `enable-downloads` | Enables downloads for Crunchyroll. | all |
-</details>
-
-### 📦 `com.garzotto.pflotsh.ecmwf_a`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `pflotsh-ecmwf-subscription-unlock` | Unlocks all subscription features. | 3.5.4 |
-</details>
-
-### 📦 `org.citra.citra_emu`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `premium-unlock` | Unlocks premium functions. | all |
-</details>
-
-### 📦 `com.backdrops.wallpapers`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `pro-unlock` | Unlocks pro-only functions. | all |
-</details>
-
-### 📦 `de.dwd.warnapp`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `promo-code-unlock` | Disables the validation of promo code. Any code will work to unlock all features. | all |
-</details>
-
-### 📦 `com.urbandroid.sleep`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-premium` | Unlocks all premium features. | all |
-</details>
-
-### 📦 `ginlemon.iconpackstudio`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-pro` | Unlocks all pro features. | all |
-</details>
-
-### 📦 `com.ithebk.expensemanager`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-pro` | Unlocks pro features. | all |
-</details>
-
-### 📦 `org.totschnig.myexpenses`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-pro` | Unlocks all professional features. | all |
-</details>
-
-### 📦 `co.windyapp.android`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-pro` | Unlocks all pro features. | all |
-</details>
-
-### 📦 `com.awedea.nyx`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-pro` | Unlocks all pro features. | all |
-</details>
-
-### 📦 `com.ticktick.task`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-themes` | Unlocks all themes. | all |
 </details>
 
 
