@@ -1,3 +1,10 @@
+## [2.141.1](https://github.com/PalmDevs/rvp/compare/v2.141.0...v2.141.1) (2022-12-09)
+
+
+### Bug Fixes
+
+* bump version to 2.141.0 for the second time ([88dc8d4](https://github.com/PalmDevs/rvp/commit/88dc8d421b1ff9cc87210be4b713aff576663165))
+
 # 1.0.0 (2022-12-09)
 
 
