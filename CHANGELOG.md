@@ -1,3 +1,10 @@
+## [2.142.1](https://github.com/PalmDevs/rvp/compare/v2.142.0...v2.142.1) (2022-12-09)
+
+
+### Bug Fixes
+
+* use original app name for youtube music ([55c9fc7](https://github.com/PalmDevs/rvp/commit/55c9fc7f14770a33887cfabfd69884f61d54317d))
+
 # [2.142.0](https://github.com/PalmDevs/rvp/compare/v2.141.1...v2.142.0) (2022-12-09)
 
 
