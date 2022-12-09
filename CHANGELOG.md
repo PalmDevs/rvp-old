@@ -1,3 +1,10 @@
+# [2.143.0](https://github.com/PalmDevs/rvp/compare/v2.142.1...v2.143.0) (2022-12-09)
+
+
+### Features
+
+* remove crunchyroll patches ([e8aa762](https://github.com/PalmDevs/rvp/commit/e8aa7626bfca20201768e73109d8a24bc2dc1a80))
+
 ## [2.142.1](https://github.com/PalmDevs/rvp/compare/v2.142.0...v2.142.1) (2022-12-09)
 
 

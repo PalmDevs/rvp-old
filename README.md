@@ -156,14 +156,6 @@ The official Patch bundle provided by ReVanced and the community.
 | `client-spoof` | Spoofs the YouTube or Vanced client to prevent playback issues. | all |
 </details>
 
-### 📦 `com.crunchyroll.crunchyroid`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `enable-downloads` | Enables downloads for Crunchyroll. | all |
-</details>
-
 
 
 ## 📝 JSON Format
