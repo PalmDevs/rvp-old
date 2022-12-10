@@ -1,6 +1,8 @@
 ## 🧩 Patches
 
-The official Patch bundle provided by ReVanced and the community.
+### THIS PATCH BUNDLE IS OUTDATED! PLEASE USE THE NEW ONE!
+
+The unofficial patch bundle provided by Palm (a member of the ReVanced Team).
 
 > Looking for the JSON variant of this? [Click here](patches.json).
 
